@@ -1,4 +1,4 @@
-<img src="yelp_logo.png" alt="drawing" width="250"/> <img src="goethe.svg" alt="drawing" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Yelp_Logo.svg" alt="drawing" width="250"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg" alt="drawing" width="250"/>
 
 
 
