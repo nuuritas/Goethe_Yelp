@@ -13,7 +13,7 @@ Papers written by using this code can be found, for:
 
 [Polina](https://link-url-here.org)
 
-[Nuri T.](https://link-url-here.org)
+[Nuri T.](https://drive.google.com/file/d/1fqF-saYB7Ek9q3w2vXmc9jsVOAFMWP-k/view?usp=sharing)
 
 [David A.](https://link-url-here.org)
 
@@ -21,4 +21,4 @@ Papers written by using this code can be found, for:
 
 [Georgi](https://link-url-here.org)
 
-[Presentation for the managerial implications](xx)
+[Presentation for the managerial implications](https://drive.google.com/file/d/1OV8geDZO276WxcYwWleFgpyVmElVX3ol/view?usp=sharing)
