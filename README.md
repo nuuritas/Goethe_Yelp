@@ -1,5 +1,4 @@
-<img src="yelp_logo.png" alt="drawing" width="250"/>
-<img src="goethe.svg" alt="drawing" width="250"/>
+<img src="yelp_logo.png" alt="drawing" width="250"/> <img src="goethe.svg" alt="drawing" width="250"/>
 
 
 
